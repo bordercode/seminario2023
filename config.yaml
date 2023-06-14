@@ -7,15 +7,15 @@ disableKinds:
   - robotsTXT
 defaultContentLanguage: en
 theme: hugo-scroll
-title: Jane Doe - Nutrition Coach & Chef Consultant
+title: Precios de vivienda como determinantes de migración interna. un análisis a escala de área metropolitana
 params:
-  copyright: © Jane Doe
-  description: Nutrition Coach & Chef Consultant
+  copyright: © José Luis Manzanares Rivera
+  description: El Colef Unidad Nogales
   favicon: images/favicon.png
   hidedesignbyline: no
   images: images/pexels-pixabay.jpg
   invertSectionColors: no
   meta:
-    keywords: some, keywords, for, seo, you, know, google, duckduckgo, and, such
+    keywords: Projecto Affordable Housing on border cities.  
   title: Precios de vivienda como determinantes de migración interna. un análisis a escala de área metropolitana
   title_guard: no
