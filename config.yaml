@@ -1,4 +1,4 @@
-baseURL: https://seminario-nogales-2023.netlify.app/
+baseURL: "https://seminario-nogales2023.netlify.app/"
 disableKinds:
   - section
   - taxonomy
