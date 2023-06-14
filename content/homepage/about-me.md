@@ -1,10 +1,10 @@
 ---
-title: "About Me"
+title: "About"
 weight: 3
 header_menu: true
 ---
 
-![Jane Doe](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
+![José Luis Manzanares Rivera](images/happy-ethnic-woman-sitting-at-table-with-laptop-3769021.jpg)
 
 ##### Professional Experience
 
