@@ -13,7 +13,7 @@ params:
   description: El Colef Unidad Nogales
   favicon: images/favicon.png
   hidedesignbyline: no
-  images: images/pexels-pixabay.jpg
+  images: cover-image.jpg
   invertSectionColors: no
   meta:
     keywords: Projecto Affordable Housing on border cities.  
